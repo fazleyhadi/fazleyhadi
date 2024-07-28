@@ -2,12 +2,12 @@
 #### Student
 👋 Hello! I'm Md.Fazley Rabbi Hadi , a Bachelor of Science in Computer Science and Engineering (BSc in CSE) student with a passion for technology and coding. Currently, I'm honing my skills and knowledge at American International University - Bangladesh (AIUB).
 
-Interests
-Programming Languages:  C++ , Java , Python
-Web Development: HTML, CSS, JavaScript, React
-Database Management: SQL, MongoDB
-AI & Machine Learning: TensorFlow, Scikit-Learn
-Cybersecurity: Network Security, Ethical Hacking
+Interests<br>
+Programming Languages:  C++ , Java , Python<br>
+Web Development: HTML, CSS, JavaScript, React<br>
+Database Management: SQL, MongoDB<br>
+AI & Machine Learning: TensorFlow, Scikit-Learn<br>
+Cybersecurity: Network Security, Ethical Hacking<br>
 
 Skills:  HTML / CSS / C++
 
