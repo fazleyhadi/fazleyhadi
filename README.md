@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Md. Fazley Rabbi Hadi
 #### Student
-![Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 👋 Hello! I'm Md.Fazley Rabbi Hadi , a Bachelor of Science in Computer Science and Engineering (BSc in CSE) student with a passion for technology and coding. Currently, I'm honing my skills and knowledge at American International University - Bangladesh (AIUB).
 
 Interests
